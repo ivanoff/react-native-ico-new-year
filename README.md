@@ -1,6 +1,6 @@
-# react-native-ico-new-year
+# New Year Icons for React Native
 
-### New Year Icons for React Native
+### react-native-ico-new-year
 
 50 Icons
 
@@ -13,15 +13,19 @@ import Icon from 'react-native-ico-new-year';
 // Inside some view component
 render() {
     return (
-        <Fragment>
+        <>
           <Icon name="angel" />
           <Icon name="bells" height="40" width="40" />
           <Icon name="star" color="red" />
-        </Fragment>
+        </>
     );
 }
 
 ```
+
+## List of icons
+
+- [List of New Year Icons](static/new-year.md)
 
 ## Installation
 
@@ -63,13 +67,9 @@ width | yes | 20 | width of the icon | 40
 height | yes | 20 | height of the icon | 40
 ...rest | no | | other props | style={{backgroundColor: "#00f"}}
 
-## List of icons
-
-- [List of New Year Icons](static/new-year.md)
-
 ## Icons Made by
 
-[Dave Gandy](https://www.flaticon.com/authors/dave-gandy)
+[Freepik](https://www.flaticon.com/authors/freepik)
 
 ## Created by
 
