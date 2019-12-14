@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of New Year Icons](static/new-year.md)
+- [List of New Year Icons](http://ico.simpleness.org/pack/new-year)
 
 ## Installation
 

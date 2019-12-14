@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico-new-year",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "New Year Icons for React Native",
   "main": "src/index.js",
   "module": "src/index.js",
