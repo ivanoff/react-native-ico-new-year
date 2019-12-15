@@ -1,8 +1,8 @@
-# New Year Icons for React Native
+# new year Icons for React Native
 
 ### react-native-ico-new-year
 
-50 Icons
+369 Icons
 
 ## Usage
 
@@ -14,9 +14,9 @@ import Icon from 'react-native-ico-new-year';
 render() {
     return (
         <>
-          <Icon name="angel" />
-          <Icon name="bells" height="40" width="40" />
-          <Icon name="star" color="red" />
+          <Icon name="home" />
+          <Icon name="file" height="40" width="40" />
+          <Icon name="smile" color="red" />
         </>
     );
 }
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of New Year Icons](http://ico.simpleness.org/pack/new-year)
+- [List of new year Icons](http://ico.simpleness.org/pack/new-year)
 
 ## Installation
 
@@ -69,7 +69,7 @@ height | yes | 20 | height of the icon | 40
 
 ## Icons Made by
 
-[Freepik](https://www.flaticon.com/authors/freepik)
+[Dave Gandy](https://www.flaticon.com/authors/dave-gandy)
 
 ## Created by
 
