@@ -1,8 +1,8 @@
-# new year Icons for React Native
+# New Year Icons for React Native
 
 ### react-native-ico-new-year
 
-369 Icons
+50 Icons
 
 ## Usage
 
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of new year Icons](http://ico.simpleness.org/pack/new-year)
+- [List of New Year Icons](http://ico.simpleness.org/pack/new-year)
 
 ## Installation
 
