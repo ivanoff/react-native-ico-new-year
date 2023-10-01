@@ -1,5 +1,6 @@
 declare module 'react-native-ico-new-year' {
     import { ReactNode } from 'react';
+    import { SvgProps, AdditionalProps } from 'react-native-svg';
 
     type iconNames = 'new-years-eve' |
       'christmas-tree' |
@@ -83,7 +84,7 @@ declare module 'react-native-ico-new-year' {
       badge?: number | string | badgeTypeObj;
     }
 
-    const Icon: (props: IconProps) => ReactNode;
+    const Icon: (props: IconProps & SvgProps & AdditionalProps) => ReactNode;
 
     export { iconNames };
     export default Icon;
